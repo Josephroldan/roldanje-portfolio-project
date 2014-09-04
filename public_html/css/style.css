@@ -1,0 +1,11 @@
+body{
+    background-color: #0033cc;
+}
+a{
+    color:red;
+}
+.uppercase{
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
