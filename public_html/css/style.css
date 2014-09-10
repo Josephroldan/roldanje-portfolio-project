@@ -1,11 +1,29 @@
 body{
-    background-color: #0033cc;
+    background-image:  url(http://fc05.deviantart.net/fs71/f/2013/015/a/0/technology_2013_by_txvirus-d5rl1yk.jpg);
+  color: white;
+
 }
+/* this allows the the screen to have a background */
 a{
-    color:red;
+    color:gold;
 }
 .uppercase{
     text-transform: uppercase;
     font-size: 40px;
 }
+/*this changes the headers marked with uppercase */
 
+img {
+    width: 250px;
+     height:auto;
+}
+h1 {
+    border-style: groove;
+        border-width: 12px;
+        border-color: activecaption;
+}
+p {
+    font-size: 19px;
+}
+
+     
